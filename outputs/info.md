@@ -1,0 +1,1 @@
+# Esta carpeta contiene los outputs de la app
